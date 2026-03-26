@@ -1,0 +1,74 @@
+{
+    "market_data": [
+        {
+            "id": 1,
+            "year": 2023,
+            "region": "Europe",
+            "ev_sales": 13600000,
+            "total_sales": 75000000,
+            "market_share_percent": 18.1,
+            "popular_models": [
+                {
+                    "name": "Tesla Model Y",
+                    "sales": 1234567,
+                    "segment": "SUV"
+                },
+                {
+                    "name": "Volkswagen ID.4",
+                    "sales": 987654,
+                    "segment": "SUV"
+                },
+                {
+                    "name": "BMW i3",
+                    "sales": 456789,
+                    "segment": "Hatchback"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "year": 2023,
+            "region": "North America",
+            "ev_sales": 1843000,
+            "total_sales": 15500000,
+            "market_share_percent": 11.9,
+            "popular_models": [
+                {
+                    "name": "Tesla Model 3",
+                    "sales": 456789,
+                    "segment": "Sedan"
+                },
+                {
+                    "name": "Ford F-150 Lightning",
+                    "sales": 234567,
+                    "segment": "Truck"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "year": 2023,
+            "region": "Asia Pacific",
+            "ev_sales": 9000000,
+            "total_sales": 45000000,
+            "market_share_percent": 20.0,
+            "popular_models": [
+                {
+                    "name": "BYD Seagull",
+                    "sales": 2000000,
+                    "segment": "Hatchback"
+                },
+                {
+                    "name": "Li Auto ONE",
+                    "sales": 1500000,
+                    "segment": "SUV"
+                }
+            ]
+        }
+    ],
+    "growth_forecast": {
+        "2024": 22.5,
+        "2025": 28.3,
+        "2026": 35.1
+    }
+}
