@@ -1,0 +1,16 @@
+id,model,manufacturer,year,price_usd,range_km,battery_capacity_kwh,acceleration_0_100,market_segment,country,sales_volume
+1,Model 3,Tesla,2023,45000,567,75,5.1,Sedan,USA,125000
+2,Model Y,Tesla,2023,65000,634,82,4.8,SUV,USA,180000
+3,e-Golf,Volkswagen,2023,38000,340,62,8.2,Compact,Germany,45000
+4,ID.4,Volkswagen,2023,58000,520,77,6.5,SUV,Germany,95000
+5,Leaf,Nissan,2023,32000,389,62,7.9,Compact,Japan,52000
+6,Ioniq 6,Hyundai,2023,48000,614,84,5.7,Sedan,South Korea,78000
+7,Kona Electric,Hyundai,2023,42000,470,65,6.8,SUV,South Korea,88000
+8,i4,BMW,2023,62000,590,81,5.5,Sedan,Germany,42000
+9,e-tron,Audi,2023,71000,452,95,5.9,SUV,Germany,38000
+10,EQC,Mercedes,2023,75000,450,100,6.9,SUV,Germany,35000
+11,Zoe,Renault,2023,35000,390,55,9.0,Compact,France,62000
+12,Bolt EV,Chevrolet,2023,27000,417,66,6.5,Hatchback,USA,70000
+13,Taycan,Porsche,2023,89000,463,93,3.5,Sedan,Germany,28000
+14,Ariya,Nissan,2023,58000,610,87,5.8,SUV,Japan,65000
+15,Song Yuan Plus EV,BYD,2023,32000,430,72,7.2,SUV,China,120000

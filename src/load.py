@@ -19,7 +19,7 @@ def load_json(filepath: str) -> dict:
         return json.load(f)
 
 
-def load_data(filepath: str) -> pd.DataFrame:
+def load_data_csv(filepath: str) -> pd.DataFrame:
     """
     Load data from a CSV file.
     
